@@ -1,4 +1,4 @@
-<h1 align="center">Greeting, I'm David</h1>
+<h1 align="center">Greetings, I'm David</h1>
 <h3 align="center">A beginner developer</h3>
 
 <p align="left"> <a href="https://twitter.com/saynedbread" target="blank"><img src="https://img.shields.io/twitter/follow/saynedbread?logo=twitter&style=for-the-badge" alt="saynedbread" /></a> </p>
