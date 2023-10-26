@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/saynedbread" target="blank"><img src="https://img.shields.io/twitter/follow/saynedbread?logo=twitter&style=for-the-badge" alt="saynedbread" /></a> </p>
 
-- 🔭 I’m currently working on my own programming language **TERROLT**
+- 🔭 I’m currently working on my own programming language **Zergo**
 
 - 🌱 I’m currently learning **Rust, C++, Flutter** basically anything I'm interested in
 
