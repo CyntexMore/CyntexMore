@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Rust, C++, Flutter** basically anything I'm interested in
 
-- 👯 I’m looking to collaborate on [reFilc](https://github.com/refilc/naplo/)
-
 - 📫 You can reach me on Discord: **wtcr**
 
 - ⚡ Fun fact **I play War Thunder**
