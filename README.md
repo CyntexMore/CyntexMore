@@ -1,7 +1,7 @@
 <h1 align="center">Greetings, I'm David</h1>
 <h3 align="center">A beginner developer</h3>
 
-<p align="left"> <a href="https://twitter.com/saynedbread" target="blank"><img src="https://img.shields.io/twitter/follow/saynedbread?logo=twitter&style=for-the-badge" alt="saynedbread" /></a> </p>
+<p align="left"> <a href="https://twitter.com/saynedbread" target="blank"><img src="https://img.shields.io/twitter/follow/saynedbread?logo=x&style=for-the-badge" alt="saynedbread" /></a> </p>
 
 - 🔭 I’m currently working on my own programming language **Zergo**
 
@@ -12,10 +12,6 @@
 - 📫 You can reach me on Discord: **wtcr**
 
 - ⚡ Fun fact **I play War Thunder**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
