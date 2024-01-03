@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/saynedbread" target="blank"><img src="https://img.shields.io/twitter/follow/saynedbread?logo=x&style=for-the-badge" alt="saynedbread" /></a> </p>
 
-- 🐧 I'm currently trying to create my own Arch-based Linux distribution, **SayOS**
+- 🐧 I'm trying to create my own Arch-based Linux distribution, **SayOS**
 
 - 🌱 I’m currently learning **Rust, C++, Flutter**. Basically anything I'm interested in
 
