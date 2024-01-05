@@ -19,6 +19,8 @@
 <a href="https://discord.gg/PWrFGYBdvy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PWrFGYBdvy" height="30" width="40" /></a>
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CyntexMore&theme=catppuccin-mocha&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+
 <h3 align="left">Technologies I use:</h3>
 <p align="left">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
