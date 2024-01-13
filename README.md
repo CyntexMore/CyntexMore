@@ -11,6 +11,10 @@
 
 - ⚡ Fun fact: **I play War Thunder**
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CyntexMore&theme=catppuccin-mocha&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/saynedbread" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saynedbread" height="30" width="40" /></a>
