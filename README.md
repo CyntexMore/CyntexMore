@@ -3,13 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/saynedbread" target="blank"><img src="https://img.shields.io/twitter/follow/saynedbread?logo=x&style=for-the-badge" alt="saynedbread" /></a> </p>
 
-- 🐧 I'm currently trying to create my own Arch-based Linux distribution, **SayOS**
+- 🐧 I use Arch BTW
 
-- 🌱 I’m currently learning **Rust, C++, Flutter**. Basically anything I'm interested in
+- 🌱 I’m currently learning **C, C++**
 
-- 📫 You can reach me on Discord: **wtcr**
-
-- ⚡ Fun fact: **I play War Thunder**
+- 📫 You can reach me on Mastodon: **@CyntexMore@social.linux.pizza**
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CyntexMore&theme=catppuccin-mocha&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
