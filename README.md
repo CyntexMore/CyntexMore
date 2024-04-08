@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I'm David</h1>
-<h3 align="center">A beginner developer</h3>
+<h3 align="center">"If you can read assembly everything is open-source." - I don't remember</h3>
 
 <p align="left"> <a href="https://twitter.com/saynedbread" target="blank"><img src="https://img.shields.io/twitter/follow/saynedbread?logo=x&style=for-the-badge" alt="saynedbread" /></a> </p>
 
