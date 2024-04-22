@@ -1,8 +1,6 @@
 <h1 align="center">Greetings, I'm David</h1>
 <h3 align="center">"If you understand assembly everything is open-source." - I don't remember</h3>
 
-<p align="left"> <a href="https://twitter.com/saynedbread" target="blank"><img src="https://img.shields.io/twitter/follow/saynedbread?logo=x&style=for-the-badge" alt="saynedbread" /></a> </p>
-
 - 🐧 I use Arch BTW
 
 - 🌱 I’m currently learning **C, C++**
