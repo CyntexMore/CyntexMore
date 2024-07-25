@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I'm David</h1>
-<h3 align="center">"If you understand assembly everything is open-source." - I don't remember</h3>
+<h3 align="center">„If you understand assembly everything is open-source.” - I don't remember</h3>
 
 - 🐧 I use Arch BTW
 
