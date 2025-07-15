@@ -3,7 +3,7 @@
 
 - 🐧 I use Arch BTW
 
-- 🌱 I’m currently learning **C, C++**
+- Full-stack developer(-ish)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CyntexMore&theme=catppuccin-mocha&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
 
